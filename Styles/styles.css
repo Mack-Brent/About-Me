@@ -1,0 +1,35 @@
+a{
+    color: rgb(30, 30, 80);
+}
+
+.title{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.text{
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(30, 30, 80);
+    color: white;
+}
+
+.main{
+    background-image: url(../Images/IMG_20260804_134132_095.jpg);
+    height: 500px;
+    background-size: cover;
+    padding-top: 20%;
+    align-items: center;
+    text-align: center;
+    padding-left: 18%;
+}
+
+.menu{
+    font-weight: bold;
+    font-size: large;
+    background-color: white;
+    margin-left: 60%;
+    width: 100px;
+    border-radius: 10px;
+    color: rgb(30, 30, 80);
+}

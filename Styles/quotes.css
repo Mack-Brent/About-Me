@@ -1,0 +1,9 @@
+.menu-quotes{
+    font-weight: bold;
+    font-size: small;
+    background-color: white;
+    margin-left: 60%;
+    width: 400px;
+    border-radius: 10px;
+    color: rgb(30, 30, 80);
+}
