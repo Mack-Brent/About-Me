@@ -2,6 +2,30 @@ a{
     color: rgb(30, 30, 80);
 }
 
+.navbar{
+    height: 60px;
+    background-color: white;
+    color: white;
+    padding: 5px;
+    padding-left: 30px;
+    position: sticky;
+    top: 0;
+    display: flex;
+    border-color: rgb(30, 30, 80);
+    border-radius: 10px;
+    border-style: solid;
+    border-radius: 0;
+}
+
+.homelogo{
+    width: 40px;
+    margin-right: 40px;
+}
+
+.navbutton{
+    margin: 18px;
+}
+
 .title{
     font-weight: bold;
     font-size: 20px;
